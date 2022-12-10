@@ -1,0 +1,34 @@
+{
+  "token": "MTAzNzQzOTEzMzg5Mjc1NTUwNw.GjRyoz.hBV9PiVit-l0KHzWA2wCEh2R_c7tV-CB9WbGpc",
+  "prefix": [".","!","r!"],
+  "guildID": "1033054872020471938",
+  "BotClientID": "1037439133892755507",
+  "mongoUrl": "mongodb+srv://wio1924:wio1924@cluster0.spvkcjf.mongodb.net/denemeeee?retryWrites=true&w=majority",
+  "owners": ["1018448414498902096"],
+  "botDurum": "Developed By cengizbyztsx",
+  "botSes": "1050823462614225067",
+  "registerPerm": "1050066155122987048",
+   
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+  "messageCount": 1,
+  "messageCoin": 2,
+  "voiceCount": 1,
+  "voiceCoin": 4,
+  "publicCoin": 4,
+  "inviteCount": 1,
+  "inviteCoin": 15,
+  "taggedCoin": 25,
+  "toplamsCoin": 5.5,
+  "yetkiCoin": 30,
+
+
+  "banlimit": 3,
+  "jaillimit": 8,
+  "warnlimit": 3,
+  "chatmutelimit": 3,
+  "voicemutelimit": 3
+}
